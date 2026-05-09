@@ -1,0 +1,1 @@
+(function(){"use strict";const o=performance.now();(async()=>{const{onExecute:e}=await import(chrome.runtime.getURL("assets/handleDL.ts-CWUjkrxo.js"));e==null||e({perf:{injectTime:o,loadTime:performance.now()-o}})})().catch(console.error)})();
